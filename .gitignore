@@ -9,3 +9,5 @@
 /ImageInsight.Domain/bin
 /ImageInsight.Infrastructure/bin
 /.vs
+/ImageInsight.Database/obj
+/ImageInsight.Database/bin
