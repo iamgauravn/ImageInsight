@@ -1,0 +1,10 @@
+/client/.vscode
+/ImageInsight.API/obj
+/ImageInsight.Application/obj
+/ImageInsight.Domain/obj
+/ImageInsight.Infrastructure/obj
+/ImageInsight.Database/.vs
+/ImageInsight.API/bin
+/ImageInsight.Application/bin
+/ImageInsight.Domain/bin
+/ImageInsight.Infrastructure/bin
