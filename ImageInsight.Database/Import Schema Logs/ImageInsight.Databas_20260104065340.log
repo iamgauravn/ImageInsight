@@ -1,0 +1,83 @@
+04-01-2026 12:23:40	This log contains information about the import schema operation into project 'ImageInsight.Database' on computer 'DESKTOP-QVGQJ4C' by user 'Gaurav'.
+04-01-2026 12:23:40	Import of database schema has started.
+04-01-2026 12:23:56	Gathering database credentials
+04-01-2026 12:23:56	Gathering database options
+04-01-2026 12:23:56	Gathering generic database scoped configuration option
+04-01-2026 12:23:56	Gathering users
+04-01-2026 12:23:56	Gathering roles
+04-01-2026 12:23:56	Gathering application roles
+04-01-2026 12:23:56	Gathering role memberships
+04-01-2026 12:23:56	Gathering filegroups
+04-01-2026 12:23:56	Gathering full-text catalogs
+04-01-2026 12:23:56	Gathering assemblies
+04-01-2026 12:23:56	Gathering certificates
+04-01-2026 12:23:56	Gathering asymmetric keys
+04-01-2026 12:23:56	Gathering symmetric keys
+04-01-2026 12:23:56	Gathering encrypted symmetric keys
+04-01-2026 12:23:56	Gathering schemas
+04-01-2026 12:23:56	Gathering XML schema collections
+04-01-2026 12:23:56	Gathering user-defined data types
+04-01-2026 12:23:56	Gathering user-defined types
+04-01-2026 12:23:56	Gathering table types
+04-01-2026 12:23:56	Gathering unique keys for table types
+04-01-2026 12:23:56	Gathering primary keys for table types
+04-01-2026 12:23:57	Gathering indexes for table types
+04-01-2026 12:23:57	Gathering check constraints for table types
+04-01-2026 12:23:57	Gathering default constraints for table types
+04-01-2026 12:23:57	Gathering partition functions
+04-01-2026 12:23:57	Gathering partition schemes
+04-01-2026 12:23:57	Gathering functions
+04-01-2026 12:23:57	Gathering encrypted functions
+04-01-2026 12:23:57	Gathering aggregates
+04-01-2026 12:23:57	Gathering procedures
+04-01-2026 12:23:57	Gathering encrypted procedures
+04-01-2026 12:23:57	Gathering tables
+04-01-2026 12:24:52	Gathering primary keys
+04-01-2026 12:24:52	Gathering unique constraints
+04-01-2026 12:24:52	Gathering foreign keys
+04-01-2026 12:24:52	Gathering default constraints
+04-01-2026 12:24:52	Gathering check constraints
+04-01-2026 12:24:52	Gathering views
+04-01-2026 12:24:52	Gathering encrypted views
+04-01-2026 12:24:52	Gathering indexes
+04-01-2026 12:24:52	Gathering statistics
+04-01-2026 12:24:52	Gathering full-text index stoplists
+04-01-2026 12:24:52	Gathering search property lists
+04-01-2026 12:24:52	Gathering search properties
+04-01-2026 12:24:52	Gathering full-text indexes
+04-01-2026 12:24:52	Gathering column store indexes
+04-01-2026 12:24:52	Gathering spatial indexes
+04-01-2026 12:24:52	Gathering XML indexes
+04-01-2026 12:24:52	Gathering Selective XML indexes
+04-01-2026 12:24:52	Gathering encrypted triggers
+04-01-2026 12:25:18	Gathering triggers
+04-01-2026 12:25:18	Gathering encrypted and clr ddl triggers
+04-01-2026 12:25:18	Gathering ddl triggers
+04-01-2026 12:25:18	Creating edge constraints
+04-01-2026 12:25:18	Gathering synonyms
+04-01-2026 12:25:18	Gathering defaults
+04-01-2026 12:25:18	Gathering data constraint uddt bindings
+04-01-2026 12:25:18	Gathering rules
+04-01-2026 12:25:18	Gathering data constraint uddt bindings
+04-01-2026 12:25:18	Gathering message types
+04-01-2026 12:25:18	Gathering queues
+04-01-2026 12:25:18	Gathering contracts
+04-01-2026 12:25:18	Gathering services
+04-01-2026 12:25:18	Gathering event notifications
+04-01-2026 12:25:18	Gathering remote service bindings
+04-01-2026 12:25:18	Gathering broker priorities
+04-01-2026 12:25:18	Gathering signatures
+04-01-2026 12:25:18	Gathering compression options
+04-01-2026 12:25:18	Gathering sequence types
+04-01-2026 12:25:18	Gathering security policies
+04-01-2026 12:25:18	Gather column encryption keys
+04-01-2026 12:25:18	Gathering column master keys
+04-01-2026 12:25:18	Gathering external data sources
+04-01-2026 12:25:18	Gathering external file formats
+04-01-2026 12:25:18	Gathering external tables
+04-01-2026 12:25:18	Gathering XML index compression options
+04-01-2026 12:25:18	Gathering extended properties
+04-01-2026 12:25:18	Gathering assemblies
+04-01-2026 12:25:18	Finished importing database.
+04-01-2026 12:25:18	A summary of the import was saved to the following location: F:\ImageInsight\ImageInsight.Database\Import Schema Logs\ImageInsight.Databas_20260104065340.log
+04-01-2026 12:25:18	Click Finish to continue...
